@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TousidesTest</string>
+    <string name="text_app_title">Word Reader</string>
+    <string name="text_select_input">Select Input File</string>
+    <string name="text_done">Done</string>
+    <string name="sentence_functionality_not_yet_added">Some Random Message</string>
+    <string name="text_deny">Deny</string>
+    <string name="text_accept">Accept</string>
+    <string name="text_ok">OK</string>
+    <string name="text_error">ERROR</string>
+    <string name="text_results">Results</string>
+    <string name="text_output">Output: </string>
+    <string name="text_times">times</string>
+    <string name="text_occurred">occurred</string>
+    <string name="text_most_frequent_word">Most frequent word: </string>
+    <string name="text_most_frequent_word_7_chars">Most frequent 7-character word: </string>
+    <string name="text_highest_scoring_words">Highest scoring word(s) (According to Scrabble):</string>
+    <string name="text_reset">Reset</string>
+    <string name="text_permissions_not_set">You cannot continue using this app without the required permissions.</string>
+    <string name="text_request_permissions">Request "Read External File" Permission</string>
+    <string name="text_with_score">With a score of: </string>
+</resources>
